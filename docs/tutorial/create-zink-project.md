@@ -52,7 +52,7 @@ you'll see a standard `WASM` library in rust:
 
 1. `#![no_std]` means we don't need the std library in this project.
 2. `extern crate zink` is for importing the panic handler from library `zink` for this project.
-3. `#[no_mangle]` is for exporting function `addition` to WASM, and this will be one the methods
+3. `#[no_mangle]` is for exporting function `addition` to WASM, and this will be one of the methods
    of your contracts.
 
 [cargo]: https://doc.rust-lang.org/cargo/reference/manifest.html
