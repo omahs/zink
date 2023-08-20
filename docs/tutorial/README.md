@@ -1,6 +1,6 @@
 # Tutorial
 
-This tutorial walks through creating a simple add-two program and compiles it with description how everything works.
+This tutorial walks through creating a simple add-two program and compiles it with a description of how everything works.
 
 - [Creating `add-two`](/tutorial/create-zink-project)
 - [Compiling `add-two`](/tutorial/compile-zink-project)
